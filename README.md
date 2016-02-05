@@ -1,9 +1,9 @@
 # I U+2764 Everyone
 To celebrate Valentine's Day, I've decided to use Twitter to send a personal and heartfelt message of love to each and every one of my 300 million fellow creatures. But, as much as I love all of you, the prospect of actually typing out 300 million tweets was just not that appealing, so instead I told my computer how to share love on my behalf.
 
-This repo contains a simple Twitter bot script that builds up a database of sad, lonely, little users and, once every five minutes, picks a lucky lover for whom the bot tweets, "\@USER, I ❤️ you". Each user will be loved at most once. At this rate, the bot should finish its first iteration in around 3000 years.
+This repo contains a simple Twitter bot script that builds up a database of sad, lonely, little users and, once every five minutes, picks a lucky lover for whom the bot tweets, "@USER, I ❤️ you". Each user will be loved at most once. At this rate, the bot should finish its first iteration in around 3000 years.
 
-[See it in action \@\_LovedArt while you still can][_lovedart].
+[See it in action @\_LovedArt while you still can][_lovedart].
 
 ### Why?
 Why not? The world needs more love.
@@ -16,7 +16,7 @@ I feel that this bot uses Twitter as it was intended, and improves the Twitter c
 ### Will Twitter consider this spam?
 Probably. A fun little bot like this will probably get banned after a few hours, while advertisers are free to spew all sorts of shit at users. So it goes.
 
-Anyone is free to continue the mission of [\@\_LovedArt][_lovedart] if it falls by banhammer. Love conquers all.
+Anyone is free to continue the mission of [@\_LovedArt][_lovedart] if it falls by banhammer. Love conquers all.
 
 
 # Running

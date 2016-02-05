@@ -118,7 +118,7 @@ const pick_user = () =>
     Make sure not to share too much love by marking when a user has been messaged.
 */
 const update_user = (screenName) =>
-    return new Promise((resolve, reject) =>
+    new Promise((resolve, reject) =>
         db.update({ _id: screenName },
             { $set: { messaged_at: Date.now() }},
             {},
