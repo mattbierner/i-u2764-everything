@@ -18,7 +18,7 @@ const QUEUE_SIZE = 100;
 const BUFFER_SIZE = 50;
 
 // Disable actual postings
-const DEBUG = true;
+const DEBUG = false;
 
 // Keep around in-memory cache to prevent getting stuck on a single item.
 const CACHE_LIMIT = 10;
@@ -165,7 +165,6 @@ const spread_the_love = () =>
                 if (err && err[0] && err[0].code === 187) {
                     console.error('Duplicate detected by Twitter, added entry to cache and will retry', tag);
                     setTimeout(spread_the_love, 250);
-                    return;
                 } else {
                     setTimeout(spread_the_love, INTERVAL);
                 }
