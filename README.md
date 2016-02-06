@@ -1,7 +1,7 @@
 # I U+2764 Everything
 Fork of [I u2764 everyone](https://github.com/mattbierner/i-u2764-everyone) that sends messages of love to hashtags instead of people using Twitter.
 
-After @_LovedArt was banned for sending Twitter users love directly, I still lots of love to share. The ban made it clear that I should love things instead of people, which is why I created this bot and [@_lovedHArt][_lovedhart] to continue my work.
+After @_LovedArt was banned for sending Twitter users love directly, I still had lots of love to share. The ban made it clear that I should love #things instead of #people, which is why I created this new bot to continue my work.
 
 [See the bot in action over @_lovedHArt][_lovedhart]
 
