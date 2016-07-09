@@ -6,9 +6,10 @@ After @_LovedArt was banned for sending Twitter users love directly, I still had
 [See the bot in action over @_lovedHArt][_lovedhart]
 
 **Update - July 2016**
+
 Alas! after night half a year of love, @_lovedHArt was most viciously and cruelly felled by the mighty Twitter banhammer. Still, the bot was able to share the love over 42,000 times, with everything from #cancer to #isis to #PHP (all the tags loved were supposed to all be unique, but some silly programmer forgot about casing and more than a few duplicates crept in.) 
 
-The bot is resting now, but the entire history of @_lovedHArt's exploits can be found here.
+The bot is resting now, but the [entire history of @_lovedHArt's exploits can be found here](https://raw.githubusercontent.com/mattbierner/i-u2764-everything/master/chronicles_of_a_fallen_love.json).
 
 # Running
 To love yourself some hashtags, first [register an application with Twitter](http://dev.twitter.com).
